@@ -3,17 +3,19 @@
 
 A script written in JavaScript. Includes basic filtering functionality based on channel names.
 
+![The script in action](https://pasteboard.co/xuG76hb5KbXy.png)
+
 
 
 ## How to use it?
 
-1. Open any YouTube playlist in your browser (i.e. the URL should be strucutred like this: *https://www.youtube.com/playlist?list=**YOUR_LIST_ID***.
+1. Open any YouTube playlist in your browser (i.e. the URL should be strucutred like this: *https://www.youtube.com/playlist?list=YOUR_LIST_ID*.
 2. Scroll down on the playlist as far as you can. Ideally by the end of scrolling you'd have loaded all of the videos from your playlist into the view.
 2. Open the browser's Dev Tools.
 3. Paste the contents of `script.js` file in the Console of the Dev Tools.
 4. Fill in the blanks spaces in the script *optional*:
     1. Set the amount of videos skipped from top of the list - change the value of `skipVideoAmount` constant.
-    2. Specify the channel names which you'd want to skip from deletion - fill in the string elements of `authors` constant.
+    2. Specify the channel names which you'd want to skip from deletion - fill in the string elements of `authors` constant array.
 5. Run the script.
 6. Wait.
 7. ...
