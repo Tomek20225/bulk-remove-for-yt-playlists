@@ -3,8 +3,7 @@
 
 A script written in JavaScript. Includes basic filtering functionality based on channel names.
 
-![The script in action](https://pasteboard.co/xuG76hb5KbXy.png)
-
+![The script in action](https://gcdnb.pbrd.co/images/xuG76hb5KbXy.png?o=1)
 
 
 ## How to use it?
