@@ -1,4 +1,4 @@
-# Bulk remove videos from any YouTube playlist
+# Bulk remove videos from any YouTube playlist (2022)
 **Last update: 2022-07-15**
 
 A script written in JavaScript. Includes basic filtering functionality based on channel names.
